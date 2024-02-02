@@ -1,0 +1,7 @@
+discord
+requests
+flask
+pillow
+exiv2
+pyexiv2
+discord-py-slash-command
